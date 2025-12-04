@@ -90,7 +90,7 @@
     <div class="projects-container">
 
         <div class="project-card">
-            <h3>Early Algimer</h3>
+            <h3>Early-stage Alzheimer's Disease prediction</h3>
             <p>A machine learning project that detects early-stage algal blooms using environmental and sensor data, enabling proactive mitigation strategies for water bodies.</p>
             <div class="tech-stack"><strong>Tech Stack:</strong> Python, TensorFlow, Pandas</div>
             <div class="project-link">
